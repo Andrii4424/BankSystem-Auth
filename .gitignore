@@ -68,3 +68,14 @@ _ReSharper*/
 *.old
 *.orig
 *.Backup*/
+# secrets
+*.pfx
+*.pem
+*.key
+*.cer
+*.p12
+*.env
+.env*
+secrets.json
+appsettings.*.Local.json
+UserSecrets/
